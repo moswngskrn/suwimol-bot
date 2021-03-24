@@ -2,5 +2,5 @@
     "appSecret": "376300479d83629028dec9dd60aac331",
     "pageAccessToken": "EAALI7KUuAZAQBAO4ZChLVs3AWaFZC1oRykbCNDuQXwsXwiPA7mwDEi1t8L9RL0L8yJJ6kiUjFckVMMU34sHj8yNgtIElSbyojfChivV8vWxdzISMd5pHdZC51yCHLscqGDCqaMOtOB3kDuCdOLZA9hHW8jUQXJ4Dxqu3tZBXhBFGZAQWmnlhiq0",
     "validationToken": "fwy9mBAQymUgnsbY6mfgpQWnRdDgF2hy9sx6SWL2TwTSzUGvRM",
-    "serverURL": "https://localhost/"
+    "serverURL": "https://cryptic-shelf-68208.herokuapp.com/"
 }
